@@ -1,0 +1,21 @@
+. It was founded in 1948 by the university vice-chancellor Sir Maurice Gwyer. Miranda House offers degrees in the sciences and liberal arts.
+
+Miranda House is known for its academic excellence and vibrant campus life. The college is situated in the North Campus of Delhi University and has a picturesque red-brick building.
+
+The college provides a conducive environment for learning and personal growth. It has a well-stocked library, state-of-the-art laboratories, and various extracurricular activities.
+
+Artificial Intelligence (AI) involves using machines to perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning (ML) is a subset of AI that involves the development of algorithms that allow computers to learn and make predictions based on data. 
+
+Deep Learning (DL) is a subset of ML that uses neural networks with many layers. These models can learn from large amounts of data and perform complex tasks such as image and speech recognition.
+
+Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and humans through natural language. It involves enabling computers to understand, interpret, and generate human language.
+
+An example of an AI conversational assistant is Amazon's Alexa. Alexa uses NLP and ML to understand and respond to user queries. It can perform a variety of tasks such as playing music, setting alarms, and providing weather updates.
+
+Chatbots are AI systems that can conduct conversations with humans. They are used in customer service, therapy, and personal assistants. Chatbots use NLP to understand and generate responses to human inputs.
+
+Miranda House encourages research and innovation in fields like AI and ML. The college has various student-led clubs and societies that focus on technology and entrepreneurship.
+
+Students at Miranda House have the opportunity to participate in workshops and seminars conducted by industry experts. These events provide students with exposure to the latest advancements in technology and help them develop practical skills.
